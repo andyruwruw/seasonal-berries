@@ -1,0 +1,612 @@
+{
+  "places": [
+    {
+      "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk",
+      "id": "ChIJJafLL_w_wFQR8ghIWpSd6Sk",
+      "types": [
+        "farm",
+        "point_of_interest",
+        "establishment"
+      ],
+      "nationalPhoneNumber": "(541) 752-0697",
+      "internationalPhoneNumber": "+1 541-752-0697",
+      "formattedAddress": "4380 NE Hwy 20, Corvallis, OR 97330, USA",
+      "addressComponents": [
+        {
+          "longText": "4380",
+          "shortText": "4380",
+          "types": [
+            "street_number"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "Northeast Highway 20",
+          "shortText": "NE Hwy 20",
+          "types": [
+            "route"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Corvallis",
+          "shortText": "Corvallis",
+          "types": [
+            "locality",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Benton County",
+          "shortText": "Benton County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "Oregon",
+          "shortText": "OR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "United States",
+          "shortText": "US",
+          "types": [
+            "country",
+            "political"
+          ],
+          "languageCode": "en"
+        },
+        {
+          "longText": "97330",
+          "shortText": "97330",
+          "types": [
+            "postal_code"
+          ],
+          "languageCode": "en-US"
+        },
+        {
+          "longText": "9694",
+          "shortText": "9694",
+          "types": [
+            "postal_code_suffix"
+          ],
+          "languageCode": "en-US"
+        }
+      ],
+      "plusCode": {
+        "globalCode": "84PRJQ4H+GW",
+        "compoundCode": "JQ4H+GW Corvallis, OR, USA"
+      },
+      "location": {
+        "latitude": 44.6062507,
+        "longitude": -123.22019449999999
+      },
+      "viewport": {
+        "low": {
+          "latitude": 44.6047449697085,
+          "longitude": -123.22092948029147
+        },
+        "high": {
+          "latitude": 44.6074429302915,
+          "longitude": -123.21823151970848
+        }
+      },
+      "rating": 4.4,
+      "googleMapsUri": "https://maps.google.com/?cid=3020118285624019186",
+      "websiteUri": "https://www.facebook.com/DavisFamilyFarms/",
+      "regularOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 9:00 AM – 5:00 PM",
+          "Wednesday: 9:00 AM – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 5:00 PM",
+          "Saturday: 9:00 AM – 5:00 PM",
+          "Sunday: 9:00 AM – 5:00 PM"
+        ]
+      },
+      "utcOffsetMinutes": -420,
+      "adrFormatAddress": "\u003cspan class=\"street-address\"\u003e4380 NE Hwy 20\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCorvallis\u003c/span\u003e, \u003cspan class=\"region\"\u003eOR\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e97330-9694\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "businessStatus": "OPERATIONAL",
+      "userRatingCount": 191,
+      "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "iconBackgroundColor": "#7B9EB0",
+      "displayName": {
+        "text": "Davis Family Farm",
+        "languageCode": "en"
+      },
+      "primaryTypeDisplayName": {
+        "text": "Farm",
+        "languageCode": "en-US"
+      },
+      "currentOpeningHours": {
+        "openNow": true,
+        "periods": [
+          {
+            "open": {
+              "day": 0,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 6,
+                "day": 30
+              }
+            },
+            "close": {
+              "day": 0,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 6,
+                "day": 30
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 7,
+                "day": 1
+              }
+            },
+            "close": {
+              "day": 1,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 7,
+                "day": 1
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 7,
+                "day": 2
+              }
+            },
+            "close": {
+              "day": 2,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 7,
+                "day": 2
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 7,
+                "day": 3
+              }
+            },
+            "close": {
+              "day": 3,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 7,
+                "day": 3
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 7,
+                "day": 4
+              }
+            },
+            "close": {
+              "day": 4,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 7,
+                "day": 4
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 6,
+                "day": 28
+              }
+            },
+            "close": {
+              "day": 5,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 6,
+                "day": 28
+              }
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "hour": 9,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 6,
+                "day": 29
+              }
+            },
+            "close": {
+              "day": 6,
+              "hour": 17,
+              "minute": 0,
+              "date": {
+                "year": 2024,
+                "month": 6,
+                "day": 29
+              }
+            }
+          }
+        ],
+        "weekdayDescriptions": [
+          "Monday: 9:00 AM – 5:00 PM",
+          "Tuesday: 9:00 AM – 5:00 PM",
+          "Wednesday: 9:00 AM – 5:00 PM",
+          "Thursday: 9:00 AM – 5:00 PM",
+          "Friday: 9:00 AM – 5:00 PM",
+          "Saturday: 9:00 AM – 5:00 PM",
+          "Sunday: 9:00 AM – 5:00 PM"
+        ]
+      },
+      "primaryType": "farm",
+      "shortFormattedAddress": "4380 NE Hwy 20, Corvallis",
+      "reviews": [
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1eGZQbjh3RRAB",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 5,
+          "text": {
+            "text": "Very busy on a fall weekend. Lots of fun fall/Halloween family activities. Cirn maze, hay rides, slides, pumpkin patch, etc. Good selection of produce. Huge line for donuts so we had to skip. Maybe next time. We did grab a gallon of fresh apple cider. Excited to try that!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Very busy on a fall weekend. Lots of fun fall/Halloween family activities. Cirn maze, hay rides, slides, pumpkin patch, etc. Good selection of produce. Huge line for donuts so we had to skip. Maybe next time. We did grab a gallon of fresh apple cider. Excited to try that!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Jeremy Petersen",
+            "uri": "https://www.google.com/maps/contrib/112548309099621478820/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlCVfsa_tS6uY69-bYn0ukOAXTrm37rjxnFRRiaeZvL8fllV7MEg=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2023-10-15T22:08:36Z"
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/reviews/ChdDSUhNMG9nS0VJQ0FnSUMta3RTc3F3RRAB",
+          "relativePublishTimeDescription": "a year ago",
+          "rating": 5,
+          "text": {
+            "text": "Lived in Albany for 38 years and this is the first time my wife and I and our 5 year old great granddaughter have been on the hay ride to the pumpkin patch. Really enjoyed. Not many pumpkins left, 2 days before Halloween. Guess that's a good thing.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Lived in Albany for 38 years and this is the first time my wife and I and our 5 year old great granddaughter have been on the hay ride to the pumpkin patch. Really enjoyed. Not many pumpkins left, 2 days before Halloween. Guess that's a good thing.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "James Hawes",
+            "uri": "https://www.google.com/maps/contrib/105025200340188203145/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIMxFaodqH42QhqFtFVg1JhuHfJG-a7huaac3bVLL6zivFElA=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2022-10-31T01:02:13Z"
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1NWI2M1dnEAE",
+          "relativePublishTimeDescription": "8 months ago",
+          "rating": 3,
+          "text": {
+            "text": "Cute pumpkin patch but if you have small children who don’t like waiting, consider going elsewhere! There was an absurdly long wait for donuts (over an hour), with only one person making donuts and seemingly one bag at a time. Even the hayride wait (the only way to actually get to the pumpkin patch) was pretty long. Maybe weekdays are a better time to come.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Cute pumpkin patch but if you have small children who don’t like waiting, consider going elsewhere! There was an absurdly long wait for donuts (over an hour), with only one person making donuts and seemingly one bag at a time. Even the hayride wait (the only way to actually get to the pumpkin patch) was pretty long. Maybe weekdays are a better time to come.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Shannon Bednarz",
+            "uri": "https://www.google.com/maps/contrib/108417482329923023975/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGgVc3pB_CdmceMzGdNff1-AHw9WHZg9Suiu5yrY-q9qhbQ6k=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-10-15T23:56:56Z"
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVeklxQ293RRAB",
+          "relativePublishTimeDescription": "4 years ago",
+          "rating": 5,
+          "text": {
+            "text": "Wonderful spot to stop and pick up the berries of the season,  tomatoes,  zucchini,  and other in-season produce! I picked these berries up today.  Great price for the quantity.  It was fun picking strawberries here in June. They also sell beautiful potted hanging flowers and other yard plants. You should stop by!",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "Wonderful spot to stop and pick up the berries of the season,  tomatoes,  zucchini,  and other in-season produce! I picked these berries up today.  Great price for the quantity.  It was fun picking strawberries here in June. They also sell beautiful potted hanging flowers and other yard plants. You should stop by!",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Kathryn Featherstone",
+            "uri": "https://www.google.com/maps/contrib/114270323909387730405/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUUlgzw7d1kCmrIhOlRUBRpQaHNnuDkboi-q7yEiOXLWbpw9cdHQ=s128-c0x00000000-cc-rp-mo-ba6"
+          },
+          "publishTime": "2019-07-19T22:32:28Z"
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxX3VDWEpBEAE",
+          "relativePublishTimeDescription": "6 months ago",
+          "rating": 5,
+          "text": {
+            "text": "I went there all the time to visit my grandmother in the summer when I was a kid. Love their produce and still do. I enjoyed picking strawberries with my grandmother when I was a kid.",
+            "languageCode": "en"
+          },
+          "originalText": {
+            "text": "I went there all the time to visit my grandmother in the summer when I was a kid. Love their produce and still do. I enjoyed picking strawberries with my grandmother when I was a kid.",
+            "languageCode": "en"
+          },
+          "authorAttribution": {
+            "displayName": "Chris Herbert",
+            "uri": "https://www.google.com/maps/contrib/106252645098037647359/reviews",
+            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUd2sX0my7KNxum7fcpKYobu7PLY60nzUz2bxBZMFd99Kc_0qSu=s128-c0x00000000-cc-rp-mo"
+          },
+          "publishTime": "2023-12-30T18:36:07Z"
+        }
+      ],
+      "photos": [
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/photos/AUc7tXUnk4Ogj-Xpq3ZDeDtMwGXx-lBfcDWXXlPN-y9zk9tBCCOM_PwM-vh_7IjLq1bxCzAfyOx3c0XiKykKzxQ7xh2d9rBzAWvHiK29_k4nrT7xpdjxtOoM3RgD7l77GmLkIpBF9cyxfsarviJ1HGwh2rBjSUyBUejLE8XA",
+          "widthPx": 4048,
+          "heightPx": 3036,
+          "authorAttributions": [
+            {
+              "displayName": "Marissa Fleming",
+              "uri": "//maps.google.com/maps/contrib/108394815935469975445",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIOtLo-QK6S6lE5Etdd3kYuS29e_R3M6LgVpy2y2WcSIxdEYw=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/photos/AUc7tXVx-Uc4HRAu1HzUi9OjDRAA8cIMjWvdVD5ZvQMZIQ6FBLt2YGzbctOkL66-8LwHIbjj_KeXBk66bUOHWzif5Sls3QVOmAepcZxYxjoKqMc8I0vNCy0X5eWKSjavauN5DgzdI2N33exJ8ECYUszI4qKsuuB4Nz4czXBg",
+          "widthPx": 3365,
+          "heightPx": 2206,
+          "authorAttributions": [
+            {
+              "displayName": "Irina Lisenkova",
+              "uri": "//maps.google.com/maps/contrib/109991138065619816512",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWo_EOUuuoFK0Zb0QOlTRVHyUUC9OqGOxB9ABXRE1DP-BAO7qqY2Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/photos/AUc7tXV000mReiyyUhm89Ir6twFhTtlGVYgDzLJ1FXW_jkJuivYJ9kcJjtXhSeosMM1c1lyOq-ct5qzZp5VmauilZNVfxvJ_ZnHUtaDM98xCq4CZZSlBJCsRuoxilXkw2a0JaY5fx1ODVuwW4CXh-UmuuvPR-e10DAmN5K27",
+          "widthPx": 3024,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Siranna Angel",
+              "uri": "//maps.google.com/maps/contrib/106901582712574801951",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVnHP4ZEB3wadDnkpaRRVtfiwD932-RHZyglb4Ku0lGdESqiuGHpQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/photos/AUc7tXWLrOCdA1Raa6ub0yu_T2Khi_Stf4cJIthNG8LEyPMILahleNONsghI72OIzlflOmNfHeILGmiWQbVy6oAMimip_f7tBgMehnVnAtGugv0bRwAXirBcOZQz3HJvZDGah6lZmbyYha8dL6w7L6aonJ8Yd_JpdfhAMwRk",
+          "widthPx": 5344,
+          "heightPx": 3006,
+          "authorAttributions": [
+            {
+              "displayName": "Irina Lisenkova",
+              "uri": "//maps.google.com/maps/contrib/109991138065619816512",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWo_EOUuuoFK0Zb0QOlTRVHyUUC9OqGOxB9ABXRE1DP-BAO7qqY2Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/photos/AUc7tXUvbKKPRyRjyc-tEo8H1igyyxMQdra1Pvx3PTu81FUOMomqSvYo68s5t7EKMc6KHlZZmxKG_fs960gcTQM6qYmCV8AYvdE-IeqiPLU2-0gCDrrUlssCLZ0oin3dgk7DWF8teboOxsuPIDQHAZKbayP_rZ_fFw9lm74l",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Emily Medonich",
+              "uri": "//maps.google.com/maps/contrib/102205626115457265843",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJR-M5wULJmknjNwgylXb1rSfRjTcLjf-5QvopbyWTP3RuR1Q=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/photos/AUc7tXW-VyEDyV40-dkOR1MoKKsr6Txq8lcYQxcGvPRCiAO0P_WQDOX8WBWZ8V5aydvZDf16ptt52h0Z8av7LghimouYFxdWaMOlI12FigeNzdiAZKqQdM8Q5XXJ5hdnn50N7WK1KtDof6ObwpZE6a9-Cddw76cdy1s3GcE5",
+          "widthPx": 2560,
+          "heightPx": 1440,
+          "authorAttributions": [
+            {
+              "displayName": "Tiffany Becker",
+              "uri": "//maps.google.com/maps/contrib/112671283469482102868",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXoizYKlOnNZZ9pFblO8wMzj3j6tg23NDOZ5ofKPfsRjZfLZ3Zj=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/photos/AUc7tXU9y9HfDBPZ_sBeqEOW__Pvwy76S9h9E-1Wq492_unYhrP3FiO-kWnW0VvI92GGIxVpRjqevWnyQPVk9dFXBPbZbE8_LkK5mgaM9YZV2x09NTiJbZHIyQ0LYNDgL1glXuuKDT_XKFeR0f_VVMj1J4QF0AaUiW2Mtcwp",
+          "widthPx": 5312,
+          "heightPx": 2988,
+          "authorAttributions": [
+            {
+              "displayName": "Guillermo Ordaz Ayala",
+              "uri": "//maps.google.com/maps/contrib/115323075450598355092",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXMXgTkUwFRR86F3G6e7YN0iJSGc8AI7fw1pdOK-l-VpS8jOcBd=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/photos/AUc7tXUBOdHLI9jNNfTR0fbNy2rbXJ87bH53fdiS27ZL_75MPrVwLzlzlAwp9C1mLPNsWHxim_2rRvHf76fQkgI95NrlAbcyxCUX_MecDow2S1jp88z5wDTgvOlcjbmiSFy6lnd7NV2fTPSxzAqDphTgQZe5tbC6CSudQSUD",
+          "widthPx": 2268,
+          "heightPx": 4032,
+          "authorAttributions": [
+            {
+              "displayName": "Patrick Fortunato",
+              "uri": "//maps.google.com/maps/contrib/113234231537606942132",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWnhWDwp9LasXdkq-bgUttc4_M-ZV7MGMdnf15h5DHvdy9TXIMVbQ=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/photos/AUc7tXWuIVHWcFovHLz6xx4Dtrh8si6M5C24lRoF8jM8SZOCeyJdtPKKQDQXpnssYsuy1pdSU1CSui0lC5CCQe3um6mrLRMybfimcsthSQxv_8g0eHs1i6EMkisZNRwuggKhOpTc1NQPcgnCJCxPgg7OEC7yP9moKL6gFJSd",
+          "widthPx": 3000,
+          "heightPx": 4000,
+          "authorAttributions": [
+            {
+              "displayName": "Tracy West",
+              "uri": "//maps.google.com/maps/contrib/107923709440926989043",
+              "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX_JBoqHPSGKfbicYm_9vq58BDzh9xF25shNEvnVQjMl_tFF9mpcA=s100-p-k-no-mo"
+            }
+          ]
+        },
+        {
+          "name": "places/ChIJJafLL_w_wFQR8ghIWpSd6Sk/photos/AUc7tXXJhEwbcIrDpjqPpiLkKBkhjkWolwRYEXmGH1gOPpqOKwnfzA9F8JDtL1MMDtCM6z9VSBbR4rQ9v3cCyuhnIm6T1lhSGufRnKWWAiPq2lYtUWQJUkvIIvMEKUeKabNvOTt4u8b6f1UemfwnU-0VrChUXcZXMSN68Hn6",
+          "widthPx": 3456,
+          "heightPx": 4608,
+          "authorAttributions": [
+            {
+              "displayName": "Patrice David",
+              "uri": "//maps.google.com/maps/contrib/115601123842234000961",
+              "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL0Z2hm6EzhdkZACa8JR2fjpqbtPJYzQmr5OLNb5vaH6C_FEmNp=s100-p-k-no-mo"
+            }
+          ]
+        }
+      ],
+      "accessibilityOptions": {
+        "wheelchairAccessibleParking": true,
+        "wheelchairAccessibleEntrance": true
+      }
+    }
+  ]
+}
